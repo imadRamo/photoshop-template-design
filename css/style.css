@@ -45,35 +45,35 @@ table {
 
 @font-face {
   font-family: 'Raleway Regular';
-  src: url("../../fonts/Raleway-Regular.ttf"); }
+  src: url("../fonts/Raleway-Regular.ttf"); }
 
 @font-face {
   font-family: 'Raleway Medium';
-  src: url("../../fonts/Raleway-Medium.ttf"); }
+  src: url("../fonts/Raleway-Medium.ttf"); }
 
 @font-face {
   font-family: 'Raleway SemiBold';
-  src: url("../../fonts/Raleway-SemiBold.ttf"); }
+  src: url("../fonts/Raleway-SemiBold.ttf"); }
 
 @font-face {
   font-family: 'Raleway Bold';
-  src: url("../../fonts/Raleway-Bold.ttf"); }
+  src: url("../fonts/Raleway-Bold.ttf"); }
 
 @font-face {
   font-family: 'Raleway ExtraBold';
-  src: url("../../fonts/Raleway-ExtraBold.ttf"); }
+  src: url("../fonts/Raleway-ExtraBold.ttf"); }
 
 @font-face {
   font-family: 'Montserrat Regular';
-  src: url("../../fonts/Montserrat-Regular.ttf"); }
+  src: url("../fonts/Montserrat-Regular.ttf"); }
 
 @font-face {
   font-family: 'Montserrat Light';
-  src: url("../../fonts/Montserrat-Light.ttf"); }
+  src: url("../fonts/Montserrat-Light.ttf"); }
 
 @font-face {
   font-family: 'Montserrat ExtraLight';
-  src: url("../../fonts/Montserrat-ExtraLight.ttf"); }
+  src: url("../fonts/Montserrat-ExtraLight.ttf"); }
 
 a {
   text-decoration: none;
@@ -384,7 +384,7 @@ a {
   flex-wrap: wrap; }
 
 .header {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../images/header.jpg");
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/header.jpg");
   background-size: cover;
   color: #ffffff; }
 
@@ -518,7 +518,7 @@ a {
 
 .video {
   color: #ffffff;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../images/playback.jpg");
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/playback.jpg");
   background-size: cover;
   background-position: center; }
 
@@ -541,7 +541,7 @@ a {
   background: #fbfaf8; }
 
 .mobile__list {
-  list-style-image: url("../../images/arrow.png");
+  list-style-image: url("../images/arrow.png");
   padding-left: 50px; }
 
 .mobile__list__item {
@@ -587,7 +587,7 @@ a {
   font-size: .7em; }
 
 .partners {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../images/partners.jpg");
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/partners.jpg");
   background-position: center;
   background-size: cover; }
 

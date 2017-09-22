@@ -1,5 +1,5 @@
 .header {
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../images/header.jpg');
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/header.jpg');
 	background-size: cover;
 	color: $white;
 }
@@ -135,7 +135,7 @@
 
 .video {
 	color: $white;
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../images/playback.jpg');
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/playback.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -159,7 +159,7 @@
 	background: $lightbackcolor;
 }
 .mobile__list {
-	list-style-image: url('../../images/arrow.png');
+	list-style-image: url('../images/arrow.png');
 	padding-left: 50px;
 }
 .mobile__list__item {
@@ -206,7 +206,7 @@
 }
 
 .partners {
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../images/partners.jpg');
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/partners.jpg');
 	background-position: center;
 	background-size: cover;
 }
