@@ -1,0 +1,55 @@
+a {
+	text-decoration: none;
+	color: $white;
+}
+.header__wrapper,
+.services__wrapper,
+.realisation__wrapper,
+.projects__wrapper,
+.mobile__wrapper,
+.counters__wrapper,
+.posts__wrapper,
+.footer__wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.realisation__title,
+.projects__title,
+.video__title,
+.mobile__title,
+.service__title,
+.posts__title,
+.partners__title {
+	font-size: 1.5em;
+	font-family: $headingfont;
+	margin: 20px 0;
+}
+.nav__item,
+.carousel__details,
+.service__details,
+.realisation__details,
+.theme__details,
+.projects__details,
+.project__details,
+.video__details,
+.mobile__details,
+.mobile__list,
+.counter__details,
+.posts__details,
+.post__details,
+.waxom__details,
+.social__details,
+.copyright {
+	font-family: $parafont;
+	font-size: .8em;
+	line-height: 1.5;
+}
+.carousel__bigtitle {
+	font-size: 2.2em;
+	font-family: 'Raleway ExtraBold';
+}
+.carousel__smaltitle {
+	font-size: 1.5em;
+	font-family: 'Raleway Medium';
+}
